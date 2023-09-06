@@ -1,6 +1,6 @@
 # science-kombat
 PLAY ON NOW: https://fiulx.github.io/science-kombat/index.html
-立即游玩: https://fiulx.github.io/science-kombat/index.html
+
 社交账号: https://space.bilibili.com/547087321
 
 Hi~ 我是fiulx 这个项目的所有内容是从互联网上抓取下来的游戏 名字叫作science kombat(科学快打)
