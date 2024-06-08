@@ -16,7 +16,10 @@ Url:
 # Pre-Update notice:
 
 (+)Multiplayer mode will be updated in the future.
+
 (+)Ai difficulty options
+
 (+)More Levels
+
 (+)Add Chat Room
 
