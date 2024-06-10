@@ -16,15 +16,17 @@ Url:
 
 # Update notice :
 
-(+)000000000000: XXXXX
+(+)000000000000: XXXXX.
 
 # Pre-Update notice:
 
 (+)Multiplayer mode will be updated in the future.
 
-(+)Ai difficulty options
+(+)Ai difficulty options.
 
-(+)More Levels
+(+)More Levels.
 
-(+)Add Chat Room
+(+)Add Chat Room.
+
+(+)Multi-platform support.
 
